@@ -24,9 +24,4 @@ output = sentence.format(name,age,location,hobby)
 
 print(output)
 
-print(name)
-print(age)
-print(location)
-print(hobby)
-
 
