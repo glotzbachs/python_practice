@@ -28,7 +28,7 @@ while True:
 #   - list.remove(item)
 
 # ways to add an element to a list
-#   - list.append(item) --- dangerous.. be careful!
+#   - list.append(item) --- dangerous.. be careful! NOT list = list.append()
 #   - list = list + [list]
 #   - list = list + list(string) --- iterated over string to create an element for each letter
 #   - list = list + [[list]] --- adds the list as an element
